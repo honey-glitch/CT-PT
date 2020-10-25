@@ -1,0 +1,77 @@
+<head>
+	<script src='\CT-PT\experiment\simulation\js\java.js'> </script>
+	<link rel='stylesheet' href='\CT-PT\experiment\simulation\css\style.css'> 
+</head><body onload="Canvas(); draw(0);" >
+	<h1 style="margin-top: 10px;">Measurement of Power using CT and PT</h1>
+	<div id="simulator">
+	  <div class="one" style="background: url('https://st.depositphotos.com/1137361/1444/v/450/depositphotos_14442969-stock-illustration-blue-graph-background-vector-illustrator.jpg'); background-size: 100% 100%;">
+		<canvas id="myCanvas"> </canvas>
+	  </div>
+	  <div class="two" id="component">
+		<input type="button" class='component_button' id='b_reset' onclick="reset_canvas()" value='Enable Power'>
+		<p id="place_equip">Place equipments:</p>
+		<button class='component_button' id='b_switch' onclick="redraw_canvas(0)">TNP Switch</button>
+		<button class='component_button' id='b_pt'   onclick="redraw_canvas(4)">Potential Transformer</button>
+		<button class='component_button' id='b_ct1'  onclick="redraw_canvas(1)">Current Transformer-1</button>
+		<button class='component_button' id='b_ct2'  onclick="redraw_canvas(2)">Current Transformer-2</button>
+		<button class='component_button' id='b_loads'onclick="redraw_canvas(3)">3-&Phi; Two Element Wattmeter</button>
+		<button class='component_button' id='b_t'    onclick="redraw_canvas(5)">3-&Phi; Variable Load</button>
+		<p id="connectwires">Connect devices with wires:</p> 
+		<button class='component_button' id='b_wire' onclick="redraw_canvas(6)"> Wires </button> 
+	  </div>
+	  <div class="three">
+		<h2> Instructions</h2><br>
+		<p id='instructions'></p>
+	  </div>
+	  <div class="four">
+	<ul id="input_form" onchange="redraw();">
+	<li class="li1">
+	  <p>TNP Switch</p>
+		  <span><input id="switch1" type="radio" name="i1" value="0">
+		  <label for="switch1">OFF</label>
+	  <div class="check"></div></span>
+		<span><input id="switch" type="radio" name="i1" value="1">
+		<label for="switch">ON</label>
+	  <div class="check"></div></span>
+	</li>
+	<li class="li2">
+	  <p>Potential Transformer Ratio</p>
+		  <span><input id="pt1" type="radio" name="i2" value="0">
+		  <label for="pt1">440/220V</label>
+	  <div class="check"><div class="inside"></div></div></span>   
+		  <span><input id="pt" type="radio" name="i2" value="1">
+		  <label for="pt">440/110V</label>
+	  <div class="check"><div class="inside"></div></div></span>
+	</li>
+	<li class="li3">
+	  <p>Current Transformer Ratio</p>
+	<span><input id="ct1" type="radio" name="i3" value="0">
+		  <label for="ct1">2:1</label>
+	  <div class="check"><div class="inside"></div></div></span> 
+	<span><input id="ct" type="radio" name="i3" value="1">
+		  <label for="ct">4:1</label>
+	  <div class="check"><div class="inside"></div></div></span>
+	</li>
+  <li class="li4">
+	<p>Wattmeter Multiplying Factor</p>     
+  <span><input id="watt_multi1" type="radio" name="i4" value="0">
+	<label for="watt_multi1">2</label>
+	<div class="check"><div class="inside"></div></div></span> 
+  <span>
+	<input id="watt_multi" type="radio" name="i4" value="1"> 
+	<label for="watt_multi">4</label>
+	<div class="check"><div class="inside"></div></div></span>
+  </li><li class="li5">
+	<p>3-&Phi; Variable Load</p>
+  <span><input id="load_select1" type="radio" name="i5" value="0">
+	<label for="load_select1">500 Watt</label>
+	<div class="check"><div class="inside"></div></div></span> 
+  <span><input id="load_select" type="radio" name="i5" value="1" >
+	<label for="load_select">1000 Watt</label>
+	<div class="check"><div class="inside"></div></div></span>
+  </li>
+  </ul>
+	  </div>
+	  <div class="five"><h2>Wattmeter Reading : <span id="demo"></span> Watts</h2><canvas class="canvas2" id="canvas2" width="350" height="175"></canvas></div>
+	</div>
+	 </body>
