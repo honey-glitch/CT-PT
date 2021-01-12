@@ -90,7 +90,7 @@
 
   const myQuestions = [
     {
-      question: "This is question 1?",  ///// Write the question inside double quotes
+      question: "What is current transformer (CT) and potential transformer (PT)?",  ///// Write the question inside double quotes
       answers: {
         a: "Option 1",                  ///// Write the option 1 inside double quotes
         b: "Option 2",                  ///// Write the option 2 inside double quotes
@@ -101,7 +101,7 @@
     },
 
     {
-     question: "This is question 2?",  ///// Write the question inside double quotes
+     question: "Name the principle on which transformer works and explain briefly?",  ///// Write the question inside double quotes
       answers: {
         a: "Option 1",                  ///// Write the option 1 inside double quotes
         b: "Option 2",                  ///// Write the option 2 inside double quotes
