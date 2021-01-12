@@ -1,1 +1,1 @@
-### Electrical Engineering Lab
+### Electrical Measurements and Instrumentation Lab
