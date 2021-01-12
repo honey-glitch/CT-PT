@@ -1,1 +1,1 @@
-### Lab Name
+### Electrical Engineering Lab
