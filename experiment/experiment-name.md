@@ -1,1 +1,1 @@
-## <!-- Experiment Name -->Institute of Engineering and Technology, Lucknow
+## <!-- Experiment Name --> Measurement of Power using CT and PT 
