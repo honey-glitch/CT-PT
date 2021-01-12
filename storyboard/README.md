@@ -104,7 +104,11 @@ The user after using this simulator were able to know how to make connection for
 <img src="mindmap/mindmap.png"/> <br>
 
 ### 5. Storyboard :
+Step 1. User will click on the simulation tab then designed simulator opens up.
 <img src="storyboard/step 1.png"/> <br>
+Step 2. Switch on the simulator switch shown in the equipment area and simulator switch and start connecting the equipment and wires according to the instruction displayed in the instruction area.
 <img src="storyboard/step 2.png"/> <br>
+Steps 3. Then Select the various inpot switches in the various input switch area shown by arrow.
 <img src="storyboard/step 3.png"/> <br>
+Step 4. Then hit the TNP switch on to get the output in the output window as wattmeter reading. 
 <img src="storyboard/step 4.png"/> <br>
