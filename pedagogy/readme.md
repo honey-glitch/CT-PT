@@ -1,3 +1,4 @@
+## Pedagogy (Round 1)
 <p align="center">
 
 <br>
@@ -17,6 +18,7 @@
  
 <hr><a name="LO"></a>
 #### 1. Focus Area : Instrumentation and Practical Skills
+
 By this experiment we want students to understand the connections for measuring the power of the 3-phase circuit by using the current transformer (CT) and potential transformer (PT) by using 3-phase two element wattmeter. After that how to calculate total power consumed in 3-phase load and also % error in calculated power. 
 
 #### 2. Learning Objectives and Cognitive Level
@@ -25,17 +27,13 @@ There will be a tentative circuit diagram shown in the theory part of the experi
 Method:
 To achieve attainment of all the objectives the experiment is designed for different sets of input variables so that students can learn through performing.
 
-Sr. No	Learning Objective	Cognitive Level	Action Verb
-1.	User will be able to:
-Understand CT, PT and wattmeter connection in 3-Phase circuit.	Understand	Describe
 
-2.	User will be able to:
-Calculate the power consumed in a 3-Phase circuit using wattmeter reading.	Apply
-Calculate
+Sr. No |	Learning Objective	| Cognitive Level | Action Verb
+:--|:--|:--|:-:
+1.| Understand CT, PT and wattmeter connection in 3-Phase circuit.| Understand | Describe
+2.| User will be able to:Calculate the power consumed in a 3-Phase circuit using wattmeter reading| Apply |  Calculate
+3.| User will be able to:Calculate the % Error in power calculated and actual power consumed.|Apply | Calculate
 
-3.	User will be able to:
-Calculate the % Error in power calculated and actual power consumed. 	Apply
-Calculate
 
 
 <br/>
