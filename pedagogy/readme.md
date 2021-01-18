@@ -1,13 +1,25 @@
-Round 1
-Experiment Electrical Measurements and Instrumentation Lab
-Discipline	Electrical Engineering/ Electrical and Electronics Engg.
-Lab	Electrical Measurements and Instrumentation Lab
-Experiment	Measurement of Power using CT and PT.
+<p align="center">
+
+<br>
+<b> Experiment Electrical Measurements and Instrumentation Lab  <a name="top"></a> <br>
+</p>
+
+<b>Discipline | <b>Electrical Engineering/ Electrical and Electronics Engg.
+<b> Lab | Electrical Measurements and Instrumentation Lab
+<b> Experiment|     <b> 1.Measure of power using CT-PT.
+
+
+<h4> [1. Focus Area](#LO)
+<h4> [2. Learning Objectives ](#LO)
+<h4> [3. Instructional Strategy](#IS)
+<h4> [4. Task & Assessment Questions](#AQ)
+<h4> [5. Simulator Interactions](#SI)
  
-1.Focus Area : Instrumentation and Practical Skills
+<hr><a name="LO"></a>
+#### 1. Focus Area : Instrumentation and Practical Skills
 By this experiment we want students to understand the connections for measuring the power of the 3-phase circuit by using the current transformer (CT) and potential transformer (PT) by using 3-phase two element wattmeter. After that how to calculate total power consumed in 3-phase load and also % error in calculated power. 
 
-2.Learning Objectives and Cognitive Level
+#### 2. Learning Objectives and Cognitive Level
 Description: 
 There will be a tentative circuit diagram shown in the theory part of the experiment. There will be block diagram of different instruments provided in the simulation and the same will be required to be connected as per the circuit diagram shown in the theoretical part by student while performing the experiment. After completing the circuit diagram students will record the reading of wattmeter by providing the inputs as per circuit diagram. Based on the reading students will calculate the power consumed by the load and finally the % error.
 Method:
@@ -26,10 +38,19 @@ Calculate the % Error in power calculated and actual power consumed. 	Apply
 Calculate
 
 
+<br/>
+<div align="right">
+    <b><a href="#top">↥ back to top</a></b>
+</div>
+<br/>
+<hr>
 
-3.Instructional Strategy
-Name of Instructional Strategy : Expository
-Assessment Method: Formative assessment
+
+<a name="IS"></a>
+#### 3. Instructional Strategy
+###### Name of Instructional Strategy  :    <u> Expository
+###### Assessment Method: Formative assessment
+ 
 Description: 
 Step by step instructions are provided at each level in the simulator to make it more user friendly.
 Scope:
@@ -37,9 +58,15 @@ Various runs of the same experiment are possible by changing the different input
 
 
 
+<br/>
+<div align="right">
+    <b><a href="#top">↥ back to top</a></b>
+</div>
+<br/>
+<hr>
 
-
-4.Task & Assessment Questions:
+<a name="AQ"></a>
+#### 4. Task & Assessment Questions:
 Read the theory and comprehend the concepts related to the experiment. (LO1, LO2, LO3)
 Sr. No	Learning Objective	Task to be performed by
 the student in the simulator	Assessment Questions as per LO & Task
@@ -61,7 +88,17 @@ C. (PT Ratio* Multiplying factor*Wattmeter Reading)/ CT Ratio
 D. (CT Ratio * Multiplying factor*Wattmeter Reading)/ PT Ratio
 4.	Calculate the % Error in power calculated and actual power consumed.	Finally calculate the % Error 	1 What are the parameter to be recorded for calculating the % error?
  
-5.Simulator Interactions:
+<u> You can add additional TASKS & Assessment Questions <u>
+<br/>
+<div align="right">
+    <b><a href="#top">↥ back to top</a></b>
+</div>
+<br/>
+<hr>
+
+<a name="SI"></a>
+
+#### 4. Simulator Interactions:
 Sr.No	What Students will do?	What Simulator will do?	Purpose of the task
 1.	Student click on the simulation tab.	Simulator screen of the experiment will open up.	To open the screen for performing the experiment.
 2.	Draw the circuit diagram according to the circuit provided in the theoretical part by using the different blocks of instrument.	Circuit is drawn accordingly in the simulator and various input switches are activated.	Circuit diagram is formed for which student have to provide  input to calculate the power.
