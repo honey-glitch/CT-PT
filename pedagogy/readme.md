@@ -65,26 +65,30 @@ Various runs of the same experiment are possible by changing the different input
 
 <a name="AQ"></a>
 #### 4. Task & Assessment Questions:
-Read the theory and comprehend the concepts related to the experiment. (LO1, LO2, LO3)
-Sr. No	Learning Objective	Task to be performed by
-the student in the simulator	Assessment Questions as per LO & Task
-1.	Understand CT, PT and wattmeter connection in 3-Phase circuit.	Students will make connections in the simulator.	How CT and PT are connected in the 3-Phase circuit for measurement of power?
-A.	parallel and series
-B.	series and series
-C.	parallel and parallel
-D.	series and parallel
-2.	Understand CT, PT and wattmeter connection in 3-Phase circuit.	Student will select the different input variables provided in the simulator.	What is the ratings of CT and PT?
-A.	10/5 A and 440/220 V
-B.	20/5A and 440/200 V
-C.	5/5A and 440/150 V
-D.	100/5A and 440/100 V  
-3.	Calculate the power consumed in a 3-Phase circuit using wattmeter reading.	After proper connection student will provide the input to the circuit and record the wattmeter reading in the observation table	1 What is the formula for calculating the power of 3-Phase Load?
-A. P=(CT Ratio* PT Ratio* Multiplying factor*Wattmeter Reading)
-B. (CT Ratio* PT Ratio* Multiplying)/ Wattmeter Reading
-C. (PT Ratio* Multiplying factor*Wattmeter Reading)/ CT Ratio
 
-D. (CT Ratio * Multiplying factor*Wattmeter Reading)/ PT Ratio
-4.	Calculate the % Error in power calculated and actual power consumed.	Finally calculate the % Error 	1 What are the parameter to be recorded for calculating the % error?
+
+Read the theory and comprehend the concepts related to the experiment. [LO1, LO2, LO3]
+<br>
+
+Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the simulator | Assessment Questions as per LO & Task
+:--|:--|:--|:-:
+1.|Understand CT, PT and wattmeter connection in 3-Phase circuit.  | Students will make connections in the simulator. | How CT and PT are connected in the 3-Phase circuit for measurement of power? <br>
+A.	parallel and series<br>
+B.	series and series <br>
+C.	parallel and parallel <br>
+D.	series and parallel <br>
+2.| Understand CT, PT and wattmeter connection in 3-Phase circuit   | Student will select the different input variables provided in the simulator.   | What is the ratings of CT and PT? <br>
+A.	10/5 A and 440/220 V <br> 
+B.	20/5A and 440/200 V <br>
+C.	5/5A and 440/150 V <br>
+D.	100/5A and 440/100 V  <br>
+
+3.| Calculate the power consumed in a 3-Phase circuit using wattmeter reading.  | After proper connection student will provide the input to the circuit and record the wattmeter reading in the observation table  | 1 What is the formula for calculating the power of 3-Phase Load? <br>
+A. P=(CT Ratio* PT Ratio* Multiplying factor*Wattmeter Reading) <br>
+B. (CT Ratio* PT Ratio* Multiplying)/ Wattmeter Reading <br>
+C. (PT Ratio* Multiplying factor*Wattmeter Reading)/ CT Ratio <br>
+D. (CT Ratio * Multiplying factor*Wattmeter Reading)/ PT Ratio <br>
+
  
 <u> You can add additional TASKS & Assessment Questions <u>
 <br/>
@@ -97,10 +101,14 @@ D. (CT Ratio * Multiplying factor*Wattmeter Reading)/ PT Ratio
 <a name="SI"></a>
 
 #### 4. Simulator Interactions:
-Sr.No	What Students will do?	What Simulator will do?	Purpose of the task
-1.	Student click on the simulation tab.	Simulator screen of the experiment will open up.	To open the screen for performing the experiment.
-2.	Draw the circuit diagram according to the circuit provided in the theoretical part by using the different blocks of instrument.	Circuit is drawn accordingly in the simulator and various input switches are activated.	Circuit diagram is formed for which student have to provide  input to calculate the power.
-3.	Then student will select the various input combinations. 	According to the selected input output is shown on the Wattmeter reading.	This wattmeter reading helpful in calculating the 3-Phase power consumed by the load.
-4.	Repeat the step 3 and take different  observation.	Wattmeter will show the power according to the selected input.	This wattmeter reading helpful in calculating the 3-Phase power consumed by the load.
 
-You can add more rows by copying the last row 
+
+
+Sr.No | What Students will do? |	What Simulator will do?	| Purpose of the task
+:--|:--|:--|:--:
+1.| Student click on the simulation tab. | Simulator screen of the experiment will open up  | To open the screen for performing the experiment.
+2.| Draw the circuit diagram according to the circuit provided in the theoretical part by using the different blocks of instrument | Circuit is drawn accordingly in the simulator and input switch to apply the pressure is activated  | Circuit diagram is formed for which student have to provide  input to calculate the pressure in terms of voltage.
+3.| Then student will select the input  value. | According to the selected input output is shown on the Wattmeter reading.  |This wattmeter reading helpful in calculating the 3-Phase power consumed by the load.
+4.| Repeat the step 3 and take different  observation. | According to the selected input output is shown on the Wattmeter reading.  |This wattmeter reading helpful in calculating the 3-Phase power consumed by the load.
+
+
