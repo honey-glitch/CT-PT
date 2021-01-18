@@ -72,22 +72,10 @@ Read the theory and comprehend the concepts related to the experiment. [LO1, LO2
 
 Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the simulator | Assessment Questions as per LO & Task
 :--|:--|:--|:-:
-1.|Understand CT, PT and wattmeter connection in 3-Phase circuit.  | Students will make connections in the simulator. | How CT and PT are connected in the 3-Phase circuit for measurement of power? <br>
-A.	parallel and series<br>
-B.	series and series <br>
-C.	parallel and parallel <br>
-D.	series and parallel <br>
-2.| Understand CT, PT and wattmeter connection in 3-Phase circuit   | Student will select the different input variables provided in the simulator.   | What is the ratings of CT and PT? <br>
-A.	10/5 A and 440/220 V <br> 
-B.	20/5A and 440/200 V <br>
-C.	5/5A and 440/150 V <br>
-D.	100/5A and 440/100 V  <br>
+1.|Understand CT, PT and wattmeter connection in 3-Phase circuit.  | Students will make connections in the simulator. | How CT and PT are connected in the 3-Phase circuit for measurement of power? <br>A.	parallel and series<br>B.	series and series <br>C.	parallel and parallel <br>D.	series and parallel <br>
+2.| Understand CT, PT and wattmeter connection in 3-Phase circuit   | Student will select the different input variables provided in the simulator.   | What is the ratings of CT and PT? <br>A.	10/5 A and 440/220 V <br> B.	20/5A and 440/200 V <br>C.	5/5A and 440/150 V <br>D.	100/5A and 440/100 V  <br>
 
-3.| Calculate the power consumed in a 3-Phase circuit using wattmeter reading.  | After proper connection student will provide the input to the circuit and record the wattmeter reading in the observation table  | 1 What is the formula for calculating the power of 3-Phase Load? <br>
-A. P=(CT Ratio* PT Ratio* Multiplying factor*Wattmeter Reading) <br>
-B. (CT Ratio* PT Ratio* Multiplying)/ Wattmeter Reading <br>
-C. (PT Ratio* Multiplying factor*Wattmeter Reading)/ CT Ratio <br>
-D. (CT Ratio * Multiplying factor*Wattmeter Reading)/ PT Ratio <br>
+3.| Calculate the power consumed in a 3-Phase circuit using wattmeter reading.  | After proper connection student will provide the input to the circuit and record the wattmeter reading in the observation table  | 1 What is the formula for calculating the power of 3-Phase Load? <br>A. P=(CT Ratio* PT Ratio* Multiplying factor*Wattmeter Reading) <br>B. (CT Ratio* PT Ratio* Multiplying)/ Wattmeter Reading <br>C. (PT Ratio* Multiplying factor*Wattmeter Reading)/ CT Ratio <br>D. (CT Ratio * Multiplying factor*Wattmeter Reading)/ PT Ratio <br>
 
  
 <u> You can add additional TASKS & Assessment Questions <u>
