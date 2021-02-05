@@ -1,4 +1,4 @@
-## <b> Pre-test
+##  Pre-test
 #### Please attempt the following questions
 Q1. What is current transformer (CT) and potential transformer (PT)? <br>
 a. Used for measurement of high current and high voltage.<br>
