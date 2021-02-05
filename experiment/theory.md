@@ -1,16 +1,21 @@
-Introduction
-Electrical power transformer  is a static device which step up or step down the voltage and current from one circuit to another without changing the frequency. A transformer is a device which consist of two windings called primary and secondary which are mutually coupled with each other not directly or electrically coupled. 
-When one winding is supplied by the alternating electrical source, the alternating current through the winding produces an alternating flux that surrounds the winding , if any other winding brought nearer to the previous one the produced flux links with the other winding. According to Faraday’s Law of Electromagnetic Induction , an emf is induced in the second coil. If the circuit of the second winding is closed, then there is a current flowing through it. This is the simplest form of electrical power transformer which is the basic working principal of transformer.
-Instrument Transformer  
+<b>Introduction</b><br>
+Electrical power transformer  is a static device which step up or step down the voltage and current from one circuit to another without changing the frequency. A transformer is a device which consist of two windings called primary and secondary which are mutually coupled with each other not directly or electrically coupled.<br> 
+When one winding is supplied by the alternating electrical source, the alternating current through the winding produces an alternating flux that surrounds the winding , if any other winding brought nearer to the previous one the produced flux links with the other winding. According to Faraday’s Law of Electromagnetic Induction , an emf is induced in the second coil. If the circuit of the second winding is closed, then there is a current flowing through it. This is the simplest form of electrical power transformer which is the basic working principal of transformer.<br><br>
+<b>Instrument Transformer</b> <br> 
 Instrument transform are the devices which is used to measure the high alternating voltage and high alternating current in the power system circuit. There are two types of instrument transformers :-
 1.	Current Transformers (CTs) and
 2.	Potential Transformers (PTs)
-
-Current Transformers (CTs)
+<br><br>
+<b>Current Transformers (CTs)</b><br>
 When current is too high to apply directly to measuring instrument of alternating electric current in the circuit, then current transformer is used for measuring or recording the output current of the circuit. A current transformer isolates the measuring instrument from what may be very high voltage/current in the monitored circuit. Current transformer are commonly used in metering and relays.
-A current transformer basically has a primary coil of one or more turns of heavy cross-sectional area and the secondary coil has large number of turns in order to reduce the current so that it can connect to the normal range ammeter or relays. Always remember that never left open circuit the secondary winding of CTs as high voltage induced across the secondary which produces high heat and it leads to burn the CT.  
+A current transformer basically has a primary coil of one or more turns of heavy cross-sectional area and the secondary coil has large number of turns in order to reduce the current so that it can connect to the normal range ammeter or relays. Always remember that never left open circuit the secondary winding of CTs as high voltage induced across the secondary which produces high heat and it leads to burn the CT. The circuit diagram of current transformer is shown in fig.1.  <br>
+<img src="images/"><br>
+Fig.1. Circuit diagram of Current Transformer (CT)<br><br>
 
-Potential Transformers (PTs)
-Potential Transformers also called voltage transformers has application in electrical power system for stepping down the system voltage to a safe value which can be fed to low rating meters and relays. Commercially available relays and meters used for protection and metering, are designed for low voltages.
-A voltage transformer or potential transformer theory is very similar to the step down transformer. Primary winding of this transformer is connected across the phase and ground just like the transformer used for stepping down purpose. PTs has lower number of turns winding at its secondary. The system is applied across the terminals of primary winding of the transformer, and then proportionate secondary voltage appears across the secondary terminals of the PT.
-The circuit diagram of Potential transformer is shown in fig.2. The primary winding of the transformer is connected across the line and ground, the voltage to be measured and the voltmeter etc. are connected across the secondary. Since secondary winding are required to operate instruments or relays, their ratings are usually 40 to 1000w. Generally, the normal secondary voltage rating of potential transformer 
+<b>Potential Transformers (PTs)</b><br>
+Potential Transformers also called voltage transformers has application in electrical power system for stepping down the system voltage to a safe value which can be fed to low rating meters and relays. Commercially available relays and meters used for protection and metering, are designed for low voltages.<br>
+A voltage transformer or potential transformer theory is very similar to the step down transformer. Primary winding of this transformer is connected across the phase and ground just like the transformer used for stepping down purpose. PTs has lower number of turns winding at its secondary. The system is applied across the terminals of primary winding of the transformer, and then proportionate secondary voltage appears across the secondary terminals of the PT.<br>
+The circuit diagram of Potential transformer is shown in fig.2. The primary winding of the transformer is connected across the line and ground, the voltage to be measured and the voltmeter etc. are connected across the secondary. Since secondary winding are required to operate instruments or relays, their ratings are usually 40 to 1000w. Generally, the normal secondary voltage rating of potential transformer is 110V <br>
+<img src="images/"><br>
+Fig.2. Circuit diagram of Potential Transformer (PT)<br>
+
