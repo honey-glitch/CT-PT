@@ -1,32 +1,26 @@
 ## Post test
 <br>
-Q 1. What will happen, if the glass plate is replaced with plane mirror?<br>
-<b>a. There will be no interference fringe<br></b>
-b. There will be interference fringe<br>
-c. colored fringes will be observed<br>
-d. None of the options<br><br>
+Q1. For which combinations of the input variables Wattmeter reading shows the maximum value?<br>
+a. CT Ratio- 4:1, PT Ratio-440/220, Multiplying Factor- 4, and Load Selector Switch- 500W<br>
+b. CT Ratio- 2:1, PT Ratio-440/110, Multiplying Factor- 4, and Load Selector Switch- 500W<br>
+c. CT Ratio- 4:1, PT Ratio-440/110, Multiplying Factor- 4, and Load Selector Switch- 1000W<br>
+d. CT Ratio- 2:1, PT Ratio-440/220, Multiplying Factor- 2, and Load Selector Switch- 1000W<br><br>
 
-Q 2. What will happen, if sodium light is replaced with white light?<br>
-a. There will be no interference fringe<br>
-b. There will be interference fringe<br>
-<b>c. colored fringes will be observed<br></b>
-d. No change in pattern is visible<br>
+Q2. What is the formula for calculating the total power consumed by load?<br>
+a. VACosΦ<br>
+b. 3VACosΦ<br>
+c. VACosΦ<br>
+d. 4VACosΦ<br>
 
-Q 3. What will appear, if in place of lens, a plane glass making some angle with the glass stripe  is used?<br>
-<b>a. Alternate dark and bright fringes in shape of a straight line.<br></b>
-b. triangular interference pattern<br>
-c. colored fringes will be observed<br>
-d. No change in pattern is visible<br>
+Q3. What is the formula for calculating the %error?<br>
+a. percent error = [experimental value - theoretical value] / theoretical value x 100%<br>
+b. percent error = [theoretical value - experimental value] / theoretical value x 100%<br>
+c. percent error = [theoretical value - experimental value] /experimental value x 100%<br>
+d. percent error =[ calculated value- observed value]/ observed value x 100%<br>
 
-Q 4. Colours observed in thin film are because of ________________<br>
-a. Diffraction<br>
-<b>b. Interference<br></b>
-c. Polarization<br>
-d. None of the options<br>
+Q4. What is the maximum value of 3-phase 2 element wattmeter reading  by the simulator? <br>
+a. 62<br>
+b. 125<br>
+c. 150<br>
+d. 200<br>
 
-Q 5.  In Newton’s rings experiment, rings are formed when the light is ________________ by
-lower surface of the lens and upper surface of the glass plate, interfere.<br>
-a. Reflected<br>
-<b>b. Refracted<br></b>
-c. Transmitted<br>
-d. None<br></b>
