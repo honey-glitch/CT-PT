@@ -1,12 +1,13 @@
 ## Pedagogy (Round 1)
 <p align="center">
-
+<br>
 <br>
 <b> Experiment Electrical Measurements and Instrumentation Lab  <a name="top"></a> <br>
 </p>
 
 <b>Discipline | <b>Electrical Engineering/ Electrical and Electronics Engg.
-<b> Lab | Electrical Measurements and Instrumentation Lab
+ :--|:--|
+<b> Lab |<b> Electrical Measurements and Instrumentation Lab
 <b> Experiment|     <b> 1.Measure of power using CT-PT.
 
 
@@ -77,7 +78,6 @@ Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the s
 3.| Calculate the power consumed in a 3-Phase circuit using wattmeter reading.  | After proper connection student will provide the input to the circuit and record the wattmeter reading in the observation table  | 1 What is the formula for calculating the power of 3-Phase Load? <br>A. P=(CT Ratio* PT Ratio* Multiplying factor*Wattmeter Reading) <br>B. (CT Ratio* PT Ratio* Multiplying)/ Wattmeter Reading <br>C. (PT Ratio* Multiplying factor*Wattmeter Reading)/ CT Ratio <br>D. (CT Ratio * Multiplying factor*Wattmeter Reading)/ PT Ratio <br>
 
  
-<u> You can add additional TASKS & Assessment Questions <u>
 <br/>
 <div align="right">
     <b><a href="#top">↥ back to top</a></b>
