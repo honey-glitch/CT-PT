@@ -2,7 +2,7 @@
 Electrical power transformer  is a static device which step up or step down the voltage and current from one circuit to another without changing the frequency. A transformer is a device which consist of two windings called primary and secondary which are mutually coupled with each other not directly or electrically coupled.<br> 
 When one winding is supplied by the alternating electrical source, the alternating current through the winding produces an alternating flux that surrounds the winding , if any other winding brought nearer to the previous one the produced flux links with the other winding. According to Faraday’s Law of Electromagnetic Induction , an emf is induced in the second coil. If the circuit of the second winding is closed, then there is a current flowing through it. This is the simplest form of electrical power transformer which is the basic working principal of transformer.<br><br>
 <b>Instrument Transformer</b> <br> 
-Instrument transform are the devices which is used to measure the high alternating voltage and high alternating current in the power system circuit. There are two types of instrument transformers :-
+Instrument transform are the devices which is used to measure the high alternating voltage and high alternating current in the power system circuit. There are two types of instrument transformers:-<br>
 1.Current Transformers (CTs) and<br>
 2.Potential Transformers (PTs)<br><br>
 <b>Current Transformers (CTs)</b><br>
