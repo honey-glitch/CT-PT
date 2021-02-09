@@ -9,7 +9,7 @@ d. CT Ratio- 2:1, PT Ratio-440/220, Multiplying Factor- 2, and Load Selector Swi
 Q2. What is the formula for calculating the total power consumed by load?<br>
 a. VACosΦ<br>
 b. 3VACosΦ<br>
-<b>c. VACosΦ</b><br>
+<b>c. √3VACosΦ</b><br>
 d. 4VACosΦ<br>
 
 Q3. What is the formula for calculating the %error?<br>
