@@ -35,7 +35,7 @@ document.querySelector('#b_reset').style.backgroundColor = "red";
          context.drawImage(img0, 20, 13,20,40);   
     });
     /*Switch*/ 
-    img0.src = "https://drive.google.com/uc?export=view&id=14U2SsIRp_bNrWjNCwBqggC6DkIw7WYnM"
+    img0.src = "../images/Finalswitch.jpg"
     
     const img1= new Image()
     img1.addEventListener('load', function() {
@@ -43,14 +43,14 @@ document.querySelector('#b_reset').style.backgroundColor = "red";
         context.drawImage(img1, 100, 2,30,30);
     });
    /*CT1*/ 
-    img1.src = "https://drive.google.com/uc?export=view&id=1HQKSigdLS7R9hRnK-BpIDYFAS5rXvwo6"
+    img1.src = "../images/CT.jpg"
     
     const img2= new Image()
     img2.addEventListener('load', function() {
         if(images_arr[2]==1)
          context.drawImage(img2, 150, 43,30,30);   
     });
-    img2.src="https://drive.google.com/uc?export=view&id=1HQKSigdLS7R9hRnK-BpIDYFAS5rXvwo6"
+    img2.src="../images/CT.jpg"
   
     const img3= new Image()
     img3.addEventListener('load', function() {
@@ -58,14 +58,14 @@ document.querySelector('#b_reset').style.backgroundColor = "red";
          context.drawImage(img3, 135, 110,100,55);   
     });
     /*Wattmeter*/
-    img3.src="https://drive.google.com/uc?export=view&id=179GU5jmkbadjTJtj231iGUPneoQqNcgj"
+    img3.src="../images/Wattmeter.png"
   
     const img4= new Image()
     img4.addEventListener('load', function() {
         if(images_arr[4]==1)
          context.drawImage(img4, 30, 95,60,30);   
     });
-    img4.src="https://drive.google.com/uc?export=view&id=1CB8NLiuxeqm0cFN6ovHQC5_qAs4Pc7S5"
+    img4.src="../images/load.jpeg"
     
     
     const img5= new Image()
@@ -74,7 +74,7 @@ document.querySelector('#b_reset').style.backgroundColor = "red";
          context.drawImage(img5, 230, 15,40,40);   
     });
     /*load*/
-    img5.src="https://drive.google.com/uc?export=view&id=1ihYJbOJ0q9QgzGvkHoX2GyT7TpfJZqbG"
+    img5.src="../images/electrical-load-engineering-frequency-circuit-breaker-hardware.jpg"
     
   
     if( images_arr[6] == 1 ){
